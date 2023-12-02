@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(82,150,82);
+    text-align: center;
+   
+}
+
+header h1 {
+    color:white;
+
+}
+
+table {
+    background-color: rgb(140,202,140);
+    width: 600px;
+    margin: auto;
+    border-collapse: collapse;
+    
+   
+}
+th,td{
+    border: 1px solid black;
+}
+ 
+caption {
+    caption-side: bottom;
+    color:white
+}
+
+img {
+    padding: 10px;
+    border: 1px solid black;
+    margin:auto;
+    border: 3px solid rgb(29, 125, 29);
+    
+}
+
+ol {
+    text-align: left;
+    vertical-align: middle;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+    color:#1c87c9;
+}
